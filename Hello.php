@@ -7,7 +7,9 @@
 </head>
 <body>
     <?php
-    echo("HELLO OPIS")
+    echo("HELLO OPIS<br>");
+    echo "I need a break for now guys <br>";
+    echo "Please style up";
     ?>
 </body>
 </html>
